@@ -11,3 +11,5 @@ V
 &tests/music-copyright-registry.test.ts,a/0/a05d90c3cacd5d83eadf3478de05ccd37a742a23
 H
 contracts/music-nft.clar,c/d/cdf8e28a7e67d523efe082ab3b9293ab48ca6d00
+G
+tests/music-nft.test.ts,a/6/a64cd048db9ebfa826c25ea9c57402ce03cd02d1
