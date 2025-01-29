@@ -9,3 +9,5 @@ M
 tests/music-licensing.test.ts,1/0/10add5dd3cc534b1aeb55107f9ed9843ac6ac51b
 V
 &tests/music-copyright-registry.test.ts,a/0/a05d90c3cacd5d83eadf3478de05ccd37a742a23
+H
+contracts/music-nft.clar,c/d/cdf8e28a7e67d523efe082ab3b9293ab48ca6d00

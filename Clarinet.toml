@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/music-licensing.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.music-nft]
+path = 'contracts/music-nft.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
